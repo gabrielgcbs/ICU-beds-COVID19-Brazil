@@ -1,7 +1,9 @@
 # ICU-beds-COVID19-Brazil
 Results data obtained from SVR forecasting of vaccination rate and bed occupancy rate of ICUs in Brazil and its regions.
 
-## This repository consists in figures and tables which illustrate the results obtained from the forecasting of both vaccinacion rate and bed occupancy rate of ICUs in all five brazilian regions and Brazil itself.
+## This repository consists in additional data in form of figures and tables, which illustrate the results obtained from the forecasting of vaccinacion rate in all five brazilian regions and Brazil itself, using the SVR technique. 
+
+**To view the figures and tables, check "figures.md" file.**
 
 The research that generated these data was developed by Augusto Vinicius da Silva¹, Gabriel Caldas Barros e Sá², Náthalee Cavalvanti de Almeida Lima³ and Samara Martins Nascimento³
 
