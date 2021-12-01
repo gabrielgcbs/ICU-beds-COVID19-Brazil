@@ -73,9 +73,9 @@
 
 ![image9](https://user-images.githubusercontent.com/87482328/143949765-2f7b9857-2b13-402c-b3ae-10ea00d4bc0d.png)
 
-*en*: Figure 9 shows the vaccination rate x dates for the Midwest region of Brazil. The black dots mark the real data from the dataset, the red curve represents the result of the regression, while the blue curve is the prediction result for 7, 14, 21 and 28 days ahead.
+*en*: Figure 10 shows the vaccination rate x dates for the Midwest region of Brazil. The black dots mark the real data from the dataset, the red curve represents the result of the regression, while the blue curve is the prediction result for 7, 14, 21 and 28 days ahead.
 
-*pt-br*: A Figura 9 apresenta o gráfico da taxa de vacinação em relação a data para a região Centro-Oeste do Brasil. Os pontos pretos são os valores reais do banco de dados, a curva em vermelho representa a regressão e a curva azul é o resultado da predição para 7, 14, 21 e 28 dias no futuro.
+*pt-br*: A Figura 10 apresenta o gráfico da taxa de vacinação em relação a data para a região Centro-Oeste do Brasil. Os pontos pretos são os valores reais do banco de dados, a curva em vermelho representa a regressão e a curva azul é o resultado da predição para 7, 14, 21 e 28 dias no futuro.
 
 #### Table 8
 
@@ -94,9 +94,9 @@
 
 ![image11](https://user-images.githubusercontent.com/87482328/143949768-ecc21063-b339-40af-a569-4cb4f13b6c37.png)
 
-*en*: Figure 9 shows the vaccination rate x dates for the Southeast region of Brazil. The black dots mark the real data from the dataset, the red curve represents the result of the regression, while the blue curve is the prediction result for 7, 14, 21 and 28 days ahead.
+*en*: Figure 11 shows the vaccination rate x dates for the Southeast region of Brazil. The black dots mark the real data from the dataset, the red curve represents the result of the regression, while the blue curve is the prediction result for 7, 14, 21 and 28 days ahead.
 
-*pt-br*: A Figura 9 apresenta o gráfico da taxa de vacinação em relação a data para a região Sudeste do Brasil. Os pontos pretos são os valores reais do banco de dados, a curva em vermelho representa a regressão e a curva azul é o resultado da predição para 7, 14, 21 e 28 dias no futuro.
+*pt-br*: A Figura 11 apresenta o gráfico da taxa de vacinação em relação a data para a região Sudeste do Brasil. Os pontos pretos são os valores reais do banco de dados, a curva em vermelho representa a regressão e a curva azul é o resultado da predição para 7, 14, 21 e 28 dias no futuro.
 
 #### Table 9
 
@@ -115,9 +115,9 @@
 
 ![image12](https://user-images.githubusercontent.com/87482328/143949770-77ebc40b-77e2-40f7-b407-36aa81be5a9d.png)
 
-*en*: Figure 9 shows the vaccination rate x dates for the South region of Brazil. The black dots mark the real data from the dataset, the red curve represents the result of the regression, while the blue curve is the prediction result for 7, 14, 21 and 28 days ahead.
+*en*: Figure 12 shows the vaccination rate x dates for the South region of Brazil. The black dots mark the real data from the dataset, the red curve represents the result of the regression, while the blue curve is the prediction result for 7, 14, 21 and 28 days ahead.
 
-*pt-br*: A Figura 9 apresenta o gráfico da taxa de vacinação em relação a data para a região Sul do Brasil. Os pontos pretos são os valores reais do banco de dados, a curva em vermelho representa a regressão e a curva azul é o resultado da predição para 7, 14, 21 e 28 dias no futuro.
+*pt-br*: A Figura 12 apresenta o gráfico da taxa de vacinação em relação a data para a região Sul do Brasil. Os pontos pretos são os valores reais do banco de dados, a curva em vermelho representa a regressão e a curva azul é o resultado da predição para 7, 14, 21 e 28 dias no futuro.
 
 #### Table 10
 
@@ -128,6 +128,6 @@
 |    21 | 32.18    |          |           |
 |    28 | 36.61    |          |           |
 
-*en*: Table 9 shows the forecasting results for vaccination rate on the South region of Brazil.
+*en*: Table 10 shows the forecasting results for vaccination rate on the South region of Brazil.
 
-*pt-br*: A tabela 9 mostra os resultados da predição da taxa de vacinação na região Sul do Brasil.
+*pt-br*: A tabela 10 mostra os resultados da predição da taxa de vacinação na região Sul do Brasil.
